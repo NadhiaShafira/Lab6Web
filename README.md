@@ -12,4 +12,6 @@
 
 ![foto](https://github.com/NadhiaShafira/Lab6Web/blob/53871e72bb3bc2775bb53f9a4868a32bd4b3c72b/assetss%20creenshots/ss2_navbar_bootstrap.png.png)
 
+![foto](https://github.com/NadhiaShafira/Lab6Web/blob/ff44bcef91613d4af5283cbf2b2a0dc44072d997/assetss%20creenshots/ss3_grid_system.png.png)
+
 ![foto](
