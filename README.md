@@ -69,43 +69,42 @@ Menggunakan class .bg-dark dan .text-white agar tampil kontras dengan halaman ut
 
 **Penjelasan**
 
-**```**
-
-**Langkah 1 – Struktur Dasar HTML & Import Bootstrap**
+```
+Langkah 1 – Struktur Dasar HTML & Import Bootstrap
 
 Langkah pertama adalah membuat struktur dasar HTML dan menautkan CDN Bootstrap 5 ke dalam tag <head>.
 Bootstrap digunakan agar halaman dapat memakai komponen siap pakai seperti tombol, grid, card, dan form dengan desain yang konsisten dan modern.
 
-**Langkah 2 – Navbar (Menu Navigasi)**
+Langkah 2 – Navbar (Menu Navigasi)
 
 Navbar berfungsi sebagai bagian navigasi utama pada halaman.
 Bagian ini dibuat menggunakan class .navbar, .navbar-dark, dan .bg-dark dari Bootstrap agar tampil dengan latar gelap.
 Menu terdiri dari tiga bagian yaitu Tentang, Portfolio, dan Kontak.
 Selain itu, terdapat tombol hamburger yang muncul otomatis saat tampilan di layar kecil (mobile).
 
-**Langkah 3 – Bagian “Tentang Saya”**
+Langkah 3 – Bagian “Tentang Saya”
 
 Bagian ini berisi foto dan deskripsi singkat tentang diri.
 Layout diatur menggunakan Grid System Bootstrap (.row dan .col-md-*) agar elemen gambar dan teks tersusun rapi dan responsif.
 Foto diberi class .rounded-circle supaya tampil bulat serta .shadow untuk menambahkan efek bayangan agar terlihat lebih menarik.
 Bagian ini menjelaskan identitas dan minat pembuat halaman, yaitu Nadhia Shafira.
 
-**Langkah 4 – Bagian “Portfolio Saya”**
+Langkah 4 – Bagian “Portfolio Saya”
 
 Bagian ini menampilkan hasil proyek yang telah dikerjakan.
 Masing-masing proyek ditampilkan menggunakan komponen Card Bootstrap dengan struktur gambar, judul, dan deskripsi.
 Bootstrap secara otomatis membuat layout tiga kolom sejajar menggunakan kombinasi class .row dan .col-md-4.
 Setiap card menampilkan informasi proyek yang berbeda, seperti pembuatan layout web, form kontak, dan desain halaman portfolio.
 
-**Langkah 5 – Footer / Kontak**
+Langkah 5 – Footer / Kontak
 
 Bagian footer terletak di bagian paling bawah halaman dan berfungsi menampilkan informasi pembuat serta tahun pembuatan halaman.
 Warna latar belakang dibuat gelap menggunakan class .bg-dark dan teks diberi warna putih menggunakan .text-white.
 Selain itu, footer juga menjadi bagian dengan ID kontak, yang dihubungkan dari menu navigasi bagian atas.
 
-**Langkah 6 – Script Bootstrap**
+Langkah 6 – Script Bootstrap
 
 Pada bagian paling bawah halaman ditambahkan link JavaScript bundle Bootstrap menggunakan CDN.
 Script ini diperlukan agar fitur-fitur interaktif Bootstrap seperti navbar toggle (tombol hamburger) dapat berfungsi dengan baik.
 
-**```**
+```
