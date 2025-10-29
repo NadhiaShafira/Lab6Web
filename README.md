@@ -18,4 +18,6 @@
 
 ![foto](https://github.com/NadhiaShafira/Lab6Web/blob/2291ed07c7fb0f0dcab78d89ea2b95a7df6fd290/assetss%20creenshots/ss5_card_component.png.png)
 
+![foto](https://github.com/NadhiaShafira/Lab6Web/blob/8dd8c67ea82d4450a3ec41a54cb6d3999a094eb9/assetss%20creenshots/ss6_form_kontak.png.png)
+
 ![foto](
