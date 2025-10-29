@@ -14,4 +14,6 @@
 
 ![foto](https://github.com/NadhiaShafira/Lab6Web/blob/ff44bcef91613d4af5283cbf2b2a0dc44072d997/assetss%20creenshots/ss3_grid_system.png.png)
 
+![foto](https://github.com/NadhiaShafira/Lab6Web/blob/3b3ee633190ba747ff1c7ce914ec5b8075112766/assetss%20creenshots/ss4_layout_main_sidebar.png.png)
+
 ![foto](
